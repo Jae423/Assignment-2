@@ -1,0 +1,49 @@
+#banner-message {
+  background: #fff;
+  border-radius: 4px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+  transition: all 0.2s;
+  margin: 0 auto;
+  width: 300px;
+}
+
+button {
+  background: #0084ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 14px;
+  font-size: 15px;
+  color: #fff;
+}
+
+
+body {
+  background: #DFFFF5;
+  font-family: courier;
+}
+
+h1 {
+  /* This sets the background using an html named color */
+  background: #CCFFFF;
+}
+
+.photo {
+  width: 125px;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+#tastytext1 {
+color: #FFFFFF;
+background: #333333;
+text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+padding: 20px;
+color: #FFFFFF;
+background: #333333;
+}
