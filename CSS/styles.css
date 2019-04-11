@@ -38,6 +38,14 @@ h1 {
   width: 50%;
 }
 
+iframe {
+  align = "middle"
+}
+
+
+li {
+  align = "middle"
+}
 
 #tastytext1 {
 color: #FFFFFF;
